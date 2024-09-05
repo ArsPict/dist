@@ -204,3 +204,11 @@ pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found 
 2024-09-04 14:29:04,993 - Stopped monitoring C:/Users/Arsenii/pascal_projects because pascalABC.NET is not running.
 2024-09-04 14:29:08,503 - Shutting down...
 2024-09-04 14:29:08,503 - Observer has been shut down
+2024-09-05 10:15:29,120 - Service has started.
+2024-09-05 10:15:42,272 - Started monitoring C:/Users/Arsenii/pascal_projects because pascalABC.NET is running.
+2024-09-05 10:15:42,272 - inactivity begin: 10:15:42, not at work
+2024-09-05 10:15:48,328 - inactivity begin: 10:15:42, not at work
+2024-09-05 10:15:54,398 - inactivity begin: 10:15:42, not at work
+2024-09-05 10:16:00,456 - inactivity begin: 10:15:42, not at work
+2024-09-05 10:16:06,506 - inactivity begin: 10:15:42, not at work
+2024-09-05 10:16:12,563 - inactivity begin: 10:15:42, not at work
