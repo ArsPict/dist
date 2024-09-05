@@ -1,0 +1,206 @@
+2024-09-04 11:54:57,537 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:03,118 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:04,842 - Service has started.
+2024-09-04 11:55:05,786 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 11:55:05,786 - inactivity begin: 11:55:05, not at work
+2024-09-04 11:55:08,719 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:11,440 - inactivity begin: 11:55:05, not at work
+2024-09-04 11:55:14,311 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:17,073 - inactivity begin: 11:55:05, not at work
+2024-09-04 11:55:19,942 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:22,799 - inactivity begin: 11:55:05, not at work
+2024-09-04 11:55:25,595 - inactivity begin: 11:54:29, not at work
+2024-09-04 11:55:26,524 - 11:55:26: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 11:55:26,524 - 11:55:26: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 11:55:26,525 - 11:55:26: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 11:55:26,525 - 11:55:26: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 11:55:28,399 - inactivity begin: 11:55:26, time till alert: 13.13
+2024-09-04 11:55:31,208 - inactivity begin: 11:55:26, time till alert: 10.32
+2024-09-04 11:55:34,050 - inactivity begin: 11:55:26, time till alert: 7.48
+2024-09-04 11:55:36,848 - inactivity begin: 11:55:26, time till alert: 4.68
+2024-09-04 11:55:39,700 - inactivity begin: 11:55:26, time till alert: 1.82
+2024-09-04 11:55:42,439 - Error displaying toast notification
+Traceback (most recent call last):
+  File "watcher.py", line 142, in inactivity_pop_up
+  File "win10toast\__init__.py", line 127, in show_toast
+  File "win10toast\__init__.py", line 93, in _show_toast
+  File "pkg_resources\__init__.py", line 1384, in resource_filename
+  File "pkg_resources\__init__.py", line 417, in get_provider
+  File "pkg_resources\__init__.py", line 1070, in require
+  File "pkg_resources\__init__.py", line 897, in resolve
+  File "pkg_resources\__init__.py", line 938, in _resolve_dist
+pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found and is required by the application
+2024-09-04 11:55:42,455 - the scanner is idle, notification sent
+2024-09-04 11:55:45,303 - Error displaying toast notification
+Traceback (most recent call last):
+  File "watcher.py", line 142, in inactivity_pop_up
+  File "win10toast\__init__.py", line 127, in show_toast
+  File "win10toast\__init__.py", line 93, in _show_toast
+  File "pkg_resources\__init__.py", line 1384, in resource_filename
+  File "pkg_resources\__init__.py", line 417, in get_provider
+  File "pkg_resources\__init__.py", line 1070, in require
+  File "pkg_resources\__init__.py", line 897, in resolve
+  File "pkg_resources\__init__.py", line 938, in _resolve_dist
+pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found and is required by the application
+2024-09-04 11:55:45,303 - the scanner is idle, notification sent
+2024-09-04 11:55:48,017 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:55:50,869 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:55:53,669 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:55:56,449 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:55:59,369 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:02,133 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:05,003 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:07,814 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:10,621 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:13,508 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:16,243 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:19,159 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:21,803 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:24,794 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:27,390 - inactivity begin: 11:55:26, not at work
+2024-09-04 11:56:50,183 - Service has started.
+2024-09-04 11:56:51,029 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 11:56:51,029 - inactivity begin: 11:56:51, not at work
+2024-09-04 11:56:56,438 - inactivity begin: 11:56:51, not at work
+2024-09-04 11:56:57,019 - 11:56:57: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 11:57:01,919 - inactivity begin: 11:56:57, time till alert: 10.10
+2024-09-04 11:57:07,388 - inactivity begin: 11:56:57, time till alert: 4.63
+2024-09-04 11:57:12,867 - Error displaying toast notification
+Traceback (most recent call last):
+  File "watcher.py", line 142, in inactivity_pop_up
+  File "win10toast\__init__.py", line 127, in show_toast
+  File "win10toast\__init__.py", line 93, in _show_toast
+  File "pkg_resources\__init__.py", line 1384, in resource_filename
+  File "pkg_resources\__init__.py", line 417, in get_provider
+  File "pkg_resources\__init__.py", line 1070, in require
+  File "pkg_resources\__init__.py", line 897, in resolve
+  File "pkg_resources\__init__.py", line 938, in _resolve_dist
+pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found and is required by the application
+2024-09-04 11:57:12,867 - the scanner is idle, notification sent
+2024-09-04 11:57:18,333 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:23,795 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:29,287 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:34,785 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:40,287 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:45,721 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:51,215 - inactivity begin: 11:56:57, not at work
+2024-09-04 11:57:56,705 - inactivity begin: 11:56:57, not at work
+2024-09-04 12:05:54,548 - Service has started.
+2024-09-04 12:05:55,410 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 12:05:55,410 - inactivity begin: 12:05:55, not at work
+2024-09-04 12:05:59,640 - 12:05:59: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:05:59,641 - 12:05:59: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:06:00,847 - inactivity begin: 12:05:59, time till alert: 13.79
+2024-09-04 12:06:06,299 - inactivity begin: 12:05:59, time till alert: 8.34
+2024-09-04 12:06:11,769 - inactivity begin: 12:05:59, time till alert: 2.87
+2024-09-04 12:06:17,231 - Error displaying toast notification
+Traceback (most recent call last):
+  File "watcher.py", line 142, in inactivity_pop_up
+  File "win10toast\__init__.py", line 127, in show_toast
+  File "win10toast\__init__.py", line 93, in _show_toast
+  File "pkg_resources\__init__.py", line 1384, in resource_filename
+  File "pkg_resources\__init__.py", line 417, in get_provider
+  File "pkg_resources\__init__.py", line 1070, in require
+  File "pkg_resources\__init__.py", line 897, in resolve
+  File "pkg_resources\__init__.py", line 938, in _resolve_dist
+pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found and is required by the application
+2024-09-04 12:06:17,231 - the scanner is idle, notification sent
+2024-09-04 12:06:22,696 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:28,181 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:33,646 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:39,116 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:44,597 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:50,031 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:06:55,471 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:07:00,939 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:07:06,392 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:07:11,851 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:07:17,300 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:07:22,785 - inactivity begin: 12:05:59, not at work
+2024-09-04 12:18:58,876 - Service has started.
+2024-09-04 12:18:59,694 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 12:18:59,694 - inactivity begin: 12:18:59, not at work
+2024-09-04 12:19:01,987 - 12:19:01: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:19:01,987 - 12:19:01: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:19:05,078 - inactivity begin: 12:19:01, time till alert: 11.91
+2024-09-04 12:19:10,539 - inactivity begin: 12:19:01, time till alert: 6.45
+2024-09-04 12:19:15,989 - inactivity begin: 12:19:01, time till alert: 1.00
+2024-09-04 12:19:24,182 - the scanner is idle, notification sent
+2024-09-04 12:19:39,093 - Service has started.
+2024-09-04 12:19:40,169 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 12:19:40,169 - inactivity begin: 12:19:40, not at work
+2024-09-04 12:19:42,176 - 12:19:42: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:19:42,176 - 12:19:42: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:19:46,221 - inactivity begin: 12:19:42, time till alert: 10.96
+2024-09-04 12:19:52,280 - inactivity begin: 12:19:42, time till alert: 4.90
+2024-09-04 12:24:08,143 - Service has started.
+2024-09-04 12:24:09,207 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 12:24:09,207 - inactivity begin: 12:24:09, not at work
+2024-09-04 12:24:15,270 - inactivity begin: 12:24:09, not at work
+2024-09-04 12:24:17,772 - 12:24:17: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:24:21,341 - inactivity begin: 12:24:17, time till alert: 11.43
+2024-09-04 12:24:27,419 - inactivity begin: 12:24:17, time till alert: 5.35
+2024-09-04 12:24:34,261 - Error displaying toast notification
+Traceback (most recent call last):
+  File "watcher.py", line 143, in inactivity_pop_up
+  File "win10toast\__init__.py", line 127, in show_toast
+  File "win10toast\__init__.py", line 93, in _show_toast
+  File "pkg_resources\__init__.py", line 1384, in resource_filename
+  File "pkg_resources\__init__.py", line 417, in get_provider
+  File "pkg_resources\__init__.py", line 1070, in require
+  File "pkg_resources\__init__.py", line 897, in resolve
+  File "pkg_resources\__init__.py", line 938, in _resolve_dist
+pkg_resources.DistributionNotFound: The 'win10toast' distribution was not found and is required by the application
+2024-09-04 12:26:51,435 - Service has started.
+2024-09-04 12:26:52,511 - Started monitoring C:\Users\Arsenii\pascal_projects because pascalABC.NET is running.
+2024-09-04 12:26:52,511 - inactivity begin: 12:26:52, not at work
+2024-09-04 12:26:58,581 - inactivity begin: 12:26:52, not at work
+2024-09-04 12:27:04,657 - inactivity begin: 12:26:52, not at work
+2024-09-04 12:27:10,713 - inactivity begin: 12:26:52, not at work
+2024-09-04 12:27:16,775 - inactivity begin: 12:26:52, not at work
+2024-09-04 12:27:19,564 - 12:27:19: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:27:19,565 - 12:27:19: Modified C:\Users\Arsenii\pascal_projects\new_project.pas
+2024-09-04 12:27:22,835 - inactivity begin: 12:27:19, time till alert: 11.73
+2024-09-04 12:27:28,887 - inactivity begin: 12:27:19, time till alert: 5.68
+2024-09-04 12:27:35,324 - the scanner is idle, notification sent
+2024-09-04 12:27:41,389 - inactivity begin: 12:27:19, not at work
+2024-09-04 12:27:47,443 - inactivity begin: 12:27:19, not at work
+2024-09-04 12:27:53,505 - inactivity begin: 12:27:19, not at work
+2024-09-04 12:27:59,891 - Shutting down...
+2024-09-04 12:27:59,891 - Observer has been shut down
+2024-09-04 14:14:49,911 - Service has started.
+2024-09-04 14:14:53,660 - Service has started.
+2024-09-04 14:14:55,855 - Service has started.
+2024-09-04 14:14:58,024 - Service has started.
+2024-09-04 14:15:00,283 - Service has started.
+2024-09-04 14:15:03,454 - Service has started.
+2024-09-04 14:15:05,602 - Service has started.
+2024-09-04 14:15:07,831 - Service has started.
+2024-09-04 14:15:09,869 - Service has started.
+2024-09-04 14:26:52,058 - Service has started.
+2024-09-04 14:26:52,809 - Started monitoring C:/Users/Arsenii/pascal_projects because pascalABC.NET is running.
+2024-09-04 14:26:52,809 - inactivity begin: 14:26:52, not at work
+2024-09-04 14:26:57,193 - 14:26:57: Modified C:/Users/Arsenii/pascal_projects\new_project.pas
+2024-09-04 14:26:57,193 - 14:26:57: Modified C:/Users/Arsenii/pascal_projects\new_project.pas
+2024-09-04 14:26:58,205 - inactivity begin: 14:26:57, time till alert: 13.99
+2024-09-04 14:27:03,670 - inactivity begin: 14:26:57, time till alert: 8.52
+2024-09-04 14:27:09,086 - inactivity begin: 14:26:57, time till alert: 3.11
+2024-09-04 14:27:15,237 - Inactivity notification triggered at Wed Sep  4 14:27:15 2024
+2024-09-04 14:27:15,237 - the scanner is idle, notification sent
+2024-09-04 14:27:20,694 - inactivity begin: 14:26:57, not at work
+2024-09-04 14:27:26,115 - inactivity begin: 14:26:57, not at work
+2024-09-04 14:28:20,741 - Service has started.
+2024-09-04 14:28:21,813 - Started monitoring C:/Users/Arsenii/pascal_projects because pascalABC.NET is running.
+2024-09-04 14:28:21,813 - inactivity begin: 14:28:21, not at work
+2024-09-04 14:28:27,800 - 14:28:27: Modified C:/Users/Arsenii/pascal_projects\new_project.pas
+2024-09-04 14:28:27,800 - 14:28:27: Modified C:/Users/Arsenii/pascal_projects\new_project.pas
+2024-09-04 14:28:27,886 - inactivity begin: 14:28:27, time till alert: 14.91
+2024-09-04 14:28:33,957 - inactivity begin: 14:28:27, time till alert: 8.84
+2024-09-04 14:28:40,013 - inactivity begin: 14:28:27, time till alert: 2.79
+2024-09-04 14:28:46,799 - Inactivity notification triggered at Wed Sep  4 14:28:46 2024
+2024-09-04 14:28:46,803 - the scanner is idle, notification sent
+2024-09-04 14:28:52,858 - inactivity begin: 14:28:27, not at work
+2024-09-04 14:28:58,926 - inactivity begin: 14:28:27, not at work
+2024-09-04 14:29:04,993 - Stopped monitoring C:/Users/Arsenii/pascal_projects because pascalABC.NET is not running.
+2024-09-04 14:29:08,503 - Shutting down...
+2024-09-04 14:29:08,503 - Observer has been shut down
