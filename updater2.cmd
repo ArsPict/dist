@@ -2,7 +2,7 @@
 REM Set the service name and repo path
 SET SERVICE_NAME=watcher
 SET REPO_PATH=C:\users\arsenii\up_t\dist
-SET UPDIGNORE_FILE=%REPO_PATH%\.updignore
+SET UPDIGNORE_FILE=%REPO_PATH%\updignore.txt
 
 REM Check if the service is running
 echo Checking if the service %SERVICE_NAME% is running...
@@ -27,14 +27,14 @@ IF ERRORLEVEL 1 (
     exit /b 1
 )
 
-REM Check if .gitignore exists
+REM Check if updignore.txt exists
 IF NOT EXIST "%UPDIGNORE_FILE%" (
-    echo .gitignore file not found!
+    echo updignore.txt file not found!
     exit /b 1
 )
 
-REM Generate the list of ignored files from .gitignore
-echo Extracting files from .gitignore...
+REM Generate the list of ignored files from updignore.txt
+echo Extracting files from updignore.txt...
 SETLOCAL EnableDelayedExpansion
 SET FILES_TO_PROTECT=
 FOR /F "usebackq delims=" %%i IN ("%UPDIGNORE_FILE%") DO (
@@ -46,11 +46,11 @@ FOR /F "usebackq delims=" %%i IN ("%UPDIGNORE_FILE%") DO (
 
 REM Check if there are files to protect
 IF "%FILES_TO_PROTECT%"=="" (
-    echo No files to protect found in .gitignore.
+    echo No files to protect found in updignore.txt.
 ) ELSE (
-    REM Attempt to stash the files listed in .gitignore
-    echo Stashing files listed in .gitignore: %FILES_TO_PROTECT%
-    git stash push -m "Stash .gitignore files" %FILES_TO_PROTECT%
+    REM Attempt to stash the files listed in updignore.txt
+    echo Stashing files listed in updignore.txt: %FILES_TO_PROTECT%
+    git stash push -m "Stash updignore.txt files" %FILES_TO_PROTECT%
     IF ERRORLEVEL 1 (
         echo Warning: Failed to stash some files, continuing with reset...
     )
