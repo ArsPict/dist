@@ -4,7 +4,6 @@ SET SERVICE_NAME=watcher
 SET REPO_PATH=C:\users\arsenii\up_t\dist
 
 REM Check if the service is running
-echo suck my balls
 echo Checking if the service %SERVICE_NAME% is running...
 sc query %SERVICE_NAME% | find "RUNNING"
 IF ERRORLEVEL 1 (
