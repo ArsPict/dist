@@ -3,7 +3,7 @@ setlocal
 
 REM Set the service name and the path to the repository
 set "SERVICE_NAME=watcher"
-set "REPO_PATH=C:\Users\Arsenii\up_t\dist"
+set "REPO_PATH=C:\watcher\dist"
 
 REM Step 1: Stop the Windows service using sc
 echo Stopping service: %SERVICE_NAME%
